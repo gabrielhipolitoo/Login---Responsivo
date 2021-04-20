@@ -134,6 +134,7 @@ html,body{
     .container{
         text-align: center;
         width: 100%;
+        min-height: 100vh;
     }
 
     .form{
@@ -171,6 +172,7 @@ html,body{
     .container{
         text-align: center;
         width: 100%;
+        min-height: 100vh;
     }
 
 
